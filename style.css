@@ -5,15 +5,3 @@ body {
 .sasuke {
     background-color: cadetblue;
 }
-
-
-
-.naruto-grid {
-    display: flex;
-    flex-direction: row;
-  }
-  
-.grid-item {
-    /* styles for grid items */
-}
-  
