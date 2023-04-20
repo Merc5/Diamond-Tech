@@ -1,3 +1,3 @@
 # Diamond-Tech
 
-Bootstrap Project
+Individual Bootstrap Project
