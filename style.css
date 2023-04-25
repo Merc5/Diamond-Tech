@@ -1,6 +1,13 @@
 body {
-    background-color: aqua;
-}
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/323039/black-wood-small.jpg);
+    color:#ddd;
+    font-family: "Open Sans", sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1;
+    margin:0;
+    padding:0;
+  }
 
 .sasuke {
     background-color: cadetblue;
